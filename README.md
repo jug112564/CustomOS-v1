@@ -1,3 +1,4 @@
+# CustomOS v1
 c언어와 어셈블리언어를 통해 32bit 운영체제를 직접 만듦
 ![image](https://github.com/jug112564/CustomOS-v1/assets/85517298/25159660-0b9a-4815-aaa2-50ee76a0c622)
 
